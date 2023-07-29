@@ -17,7 +17,3 @@ def index():
 
 if __name__ == '__main__':
     server.run()
-
-
-http://127.0.0.1:5000/login?login=user1&password=password_user1
-http://127.0.0.1:5000/protected?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidXNlcjEiLCJleHAiOjE2OTA2NjQ4NzN9.3UWLv2YMbY45JyFWoELA91evE2crowYpTS5blz-Ddik
